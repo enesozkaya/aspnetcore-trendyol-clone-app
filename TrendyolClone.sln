@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrendyolClone.Entites", "Entities\TrendyolClone.Entites.csproj", "{9FEDA03C-B937-41A4-B4D6-4CC5872D08F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrendyolCloneDataAccess", "DataAccess\TrendyolCloneDataAccess.csproj", "{77592BCA-9CF0-411B-8252-82A0221D82CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrendyolClone.Business", "TrendyolClone.Business\TrendyolClone.Business.csproj", "{19C40909-FA25-4634-A7C0-96F00A05B40A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrendyolClone.Core", "TrendyolClone.Core\TrendyolClone.Core.csproj", "{AF48D757-E3FB-4CA8-A58B-21D6C8CB00A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrendyolCloneWep.API", "TrendyolCloneWep.API\TrendyolCloneWep.API.csproj", "{AB25AF83-BD77-4849-AA47-CB96A53829D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FEDA03C-B937-41A4-B4D6-4CC5872D08F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FEDA03C-B937-41A4-B4D6-4CC5872D08F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FEDA03C-B937-41A4-B4D6-4CC5872D08F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FEDA03C-B937-41A4-B4D6-4CC5872D08F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77592BCA-9CF0-411B-8252-82A0221D82CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77592BCA-9CF0-411B-8252-82A0221D82CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77592BCA-9CF0-411B-8252-82A0221D82CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77592BCA-9CF0-411B-8252-82A0221D82CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19C40909-FA25-4634-A7C0-96F00A05B40A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19C40909-FA25-4634-A7C0-96F00A05B40A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19C40909-FA25-4634-A7C0-96F00A05B40A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19C40909-FA25-4634-A7C0-96F00A05B40A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF48D757-E3FB-4CA8-A58B-21D6C8CB00A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF48D757-E3FB-4CA8-A58B-21D6C8CB00A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF48D757-E3FB-4CA8-A58B-21D6C8CB00A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF48D757-E3FB-4CA8-A58B-21D6C8CB00A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB25AF83-BD77-4849-AA47-CB96A53829D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB25AF83-BD77-4849-AA47-CB96A53829D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB25AF83-BD77-4849-AA47-CB96A53829D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB25AF83-BD77-4849-AA47-CB96A53829D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE63EC69-3141-4255-865D-7BD590E4BB06}
+	EndGlobalSection
+EndGlobal
